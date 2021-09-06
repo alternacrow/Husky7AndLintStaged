@@ -8,6 +8,8 @@
  * @format
  */
 
+console.log('test-commit');
+
 import React from 'react';
 import {
   SafeAreaView,
